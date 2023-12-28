@@ -1,4 +1,4 @@
-![Abdelhamid Cartoon](https://github.com/Abdelhamid-El-rashidy/Abdelhamid-Portfolio/blob/master/images/Abdelhamid-Cartoon%20(1).jpeg)
+<img src="https://github.com/Abdelhamid-El-rashidy/Abdelhamid-Portfolio/blob/master/images/Abdelhamid-Cartoon%20(1).jpeg" alt="Abdelhamid Cartoon" width="200">
 <h1 align="center">Hi 👋, I'm Abdelhamid EL-Rashidy</h1>
 <p align="center">I'm Abdelhamid Ahmed, a 18-year-old Egyptian based in Giza, a self-taught front-end web developer, and a rising junior at STEM High School for Boys—6th of October. Above all, a CS and Entrepreneurship geek. 🤓</p>
 
