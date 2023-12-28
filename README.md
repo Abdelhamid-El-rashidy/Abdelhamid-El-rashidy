@@ -15,6 +15,14 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/abdelhamid-el-rashidy-1ab8381b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdelhamid-el-rashidy-1ab8381b9" height="30" width="40" /></a>
 </p>
 
+## Skills and Experience
+- HTML, CSS, JS
+- React.js
+- Node.js
+- Sass
+- Bootstrap
+- Firebase
+- Arduino
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelhamid-el-rashidy&show_icons=true&locale=en&layout=compact" alt="abdelhamid-el-rashidy" /></p>
