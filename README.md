@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelhamid EL-Rashidy</h1>
-<h3 align="center">I'm Abdelhamid Ahmed, a 18-year-old Egyptian based in Giza, a self-taught front-end web developer, and a rising junior at STEM High School for Boys—6th of October. Finally, a CS and Entrepreneurship geek. 🤓</h3>
+<h3 align="center">I'm Abdelhamid Ahmed, a 18-year-old Egyptian based in Giza, a self-taught front-end web developer, and a rising junior at STEM High School for Boys—6th of October. Above all, a CS and Entrepreneurship geek. 🤓</h3>
 
 ![Programming GIF](https://your-gif-url.com/programming-gif.gif)
 
